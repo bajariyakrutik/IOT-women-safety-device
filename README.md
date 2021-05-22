@@ -19,9 +19,10 @@ https://www.labcenter.com/<br />
 2.Arduino Program Editor<br />
 https://create.arduino.cc/editor
 
-The Block diagram is shown below.
-![Block Diagram](IOE.png)
 
-Results:
+Results:<br />
 ![Serial Output](virtual_terminal.png)
-![SMS](android.png)
+<p align="center">
+  <img src="android.png" width="350" title="hover text">
+  <img src="android.png" width="350" alt="accessibility text">
+</p>
