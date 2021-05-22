@@ -22,7 +22,4 @@ https://create.arduino.cc/editor
 
 Results:<br />
 ![Serial Output](virtual_terminal.png)
-<p align="center">
-  <img src="android.png" width="350" title="hover text">
-  <img src="android.png" width="350" alt="accessibility text">
-</p>
+<img src="android.png" width="350" alt="SMS_Output">
