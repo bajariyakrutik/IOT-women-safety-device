@@ -22,6 +22,6 @@ https://create.arduino.cc/editor
 
 Results:
 
-<img src="virtual_terminal.png" width="450" alt="Serial Output">
+<img src="virtual_terminal.png" width="750" alt="Serial Output">
 
-<img src="android.png" width="450" alt="SMS_Output">
+<img src="android.png" width="750" alt="SMS_Output">
