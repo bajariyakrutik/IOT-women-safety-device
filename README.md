@@ -20,6 +20,8 @@ https://www.labcenter.com/<br />
 https://create.arduino.cc/editor
 
 
-Results:<br />
-![Serial Output](virtual_terminal.png)
-<img src="android.png" width="350" alt="SMS_Output">
+Results:
+
+<img src="virtual_terminal.png" width="450" alt="Serial Output">
+
+<img src="android.png" width="450" alt="SMS_Output">
